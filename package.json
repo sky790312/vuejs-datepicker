@@ -1,6 +1,6 @@
 {
   "name": "@sky790312/vuejs-datepicker",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "private": false,
   "main": "./dist/VueDatepicker.common.js",
   "description": "Easy datepicker with year/month/day's view use as vue component.",

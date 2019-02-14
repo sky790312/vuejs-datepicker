@@ -1,9 +1,15 @@
 # vuejs-datepicker
 Easy datepicker with year/month/day's view use as vue component.
 
+## step1
 ```
-...
-import VueDatepicker from '@/components/VueDatepicker'
+  yarn install @sky790312/vuejs-datepicker
+```
+
+## step2
+```
+<script>
+import VueDatepicker from '@sky790312/vuejs-datepicker'
 
 export default {
   name: 'app',
@@ -11,6 +17,7 @@ export default {
     VueDatepicker
   }
 }
+</script>
 ```
 
 Open the 8080 port to check the source code or check the dist/demo.html to use as vue component.

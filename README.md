@@ -1,45 +1,12 @@
-# vue-calender
+# vuejs-datepicker
+Easy datepicker with year/month/day's view use as vue component.
+
 ```
 yarn install
 yarn run serve
 ```
 
-Open the 8080 port to check.
-
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
-
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Run your end-to-end tests
-```
-yarn run test:e2e
-```
-
-### Run your unit tests
-```
-yarn run test:unit
-```
+Open the 8080 port to check the source code or check the dist/demo.html to use as vue component.
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).

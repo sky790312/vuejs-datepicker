@@ -163,6 +163,7 @@ export default {
 <style lang="stylus">
 .i-datepicker {
   width: 300px
+  text-align: center
 
   .i-datepicker-input {
     margin-bottom: 10px

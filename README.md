@@ -1,5 +1,5 @@
 # vuejs-datepicker
-Easy datepicker with year/month/day's view use as vue component.
+Easy datepicker with year/month/day's view use as vue component. Using provide/inject to fulfill feature.
 [https://sky790312.github.io/vuejs-datepicker/](https://sky790312.github.io/vuejs-datepicker/)
 ## step1
 ```

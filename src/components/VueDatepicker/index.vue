@@ -163,13 +163,13 @@ export default {
 <style lang="stylus">
 .i-datepicker {
   width: 300px
-  text-align: center
 
   .i-datepicker-input {
     margin-bottom: 10px
   }
 
   .i-datepicker-container {
+    text-align: center
     background-color: $white
     border: 1px solid $dark-gray
   }
